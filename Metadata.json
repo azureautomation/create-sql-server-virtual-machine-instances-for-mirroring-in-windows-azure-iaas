@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 2960,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-sql-server-virtual-machine-instances-for-mirroring-in-windows-azure-iaas/master/create-sql-vms.ps1",
+    "DownloadCount": 1474,
+    "Id": "Create-SQL-Server-Virtual-af2a0bfe",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 265,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2012-12-4T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Creates three SQL Server Virtual Machines using Windows Azure IaaS for a mirrored configuration (VM1, VM2 and Witness) using Availability Sets for High Availability.",
+    "Title": "Create SQL Server Virtual Machine Instances for Mirroring in Windows Azure IaaS",
+    "UpdatedDate": "2013-1-4T00:00:00",
+    "Url": "https://github.com/azureautomation/create-sql-server-virtual-machine-instances-for-mirroring-in-windows-azure-iaas",
+    "UserTags": "SQL Server, Windows Azure Virtual Machines"
+}
